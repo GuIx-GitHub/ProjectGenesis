@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "guix-github.github.io/ProjectGenesis/articles/index.rss",
+  "rss": "guix-github.github.io/ProjectGenesis/index.rss",
   "discord": {
     "clientId": "1148240467352363048",
     "smallImageText": "",
