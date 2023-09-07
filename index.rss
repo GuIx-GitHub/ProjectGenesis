@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mes Actualités</title>
+        <link>https://guix-github.github.io/ProjectGenesis/</link>
+        <description>Les dernières actualités de mon site.</description>
+        <language>fr-FR</language>
+        
+        <item>
+            <title>Titre de l'Actualité 1</title>
+            <link>https://guix-github.github.io/ProjectGenesis/1</link>
+            <description>Ceci est le contenu de la première actualité.</description>
+            <pubDate>Thu, 07 Sep 2023 08:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
