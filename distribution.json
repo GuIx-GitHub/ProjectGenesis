@@ -11,7 +11,7 @@
       "id": "Project_Genesis-1.7.10",
       "name": "Project_Genesis [1.7.10]",
       "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde post-apo.",
-      "icon": https://cdn.discordapp.com/attachments/1095681425090555974/1148954544215162920/LoadingSeal.png,
+      "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1148954544215162920/LoadingSeal.png",
       "version": "1.0.0",
       "address": "ProjectGenesis.aternos.me:51315",
       "minecraftVersion": "1.7.10",
