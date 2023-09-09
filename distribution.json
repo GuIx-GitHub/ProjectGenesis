@@ -459,16 +459,6 @@
           }
         },
         {
-          "id": "generated.forgemod:scp:1.1@jar",
-          "name": "SCP",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 290229,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.7.10/forgemods/required/SCP-1.1.jar",
-            "MD5": "c6a48e67c562cdecfccf36b82fc5cdae"
-          }
-        },
-        {
           "id": "generated.forgemod:SimpleWorldTimer:1.7.10-1.1.2@jar",
           "name": "Simple World Timer",
           "type": "ForgeMod",
