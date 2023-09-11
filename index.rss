@@ -7,10 +7,9 @@
         <language>fr-FR</language>
         
         <item>
-            <title>Titre de l'Actualité 1</title>
-            <link>https://guix-github.github.io/ProjectGenesis/1</link>
-            <description>Ceci est le contenu de la première actualité.</description>
-            <pubDate>Thu, 07 Sep 2023 08:00:00 GMT</pubDate>
+            <title>Ouverture Prochaine !</title>
+            <description>Project Genesis à connu des jours meilleurs, Donc nous préférons encore attendre avant d'avoir une version stable avec tout les mods désirés installer.</description>
+            <pubDate>11/09/2023 à 18:14</pubDate>
         </item>
     </channel>
 </rss>
