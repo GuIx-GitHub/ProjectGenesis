@@ -296,6 +296,16 @@
           }
         },
         {
+          "id": "codechicken.core.launch:codechickencore:1.7.10-1.0.7.48-universal@jar",
+          "name": "CodeChickenCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 143985,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.7.10/forgemods/required/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+            "MD5": "9624db3d835155a1be4baef23b7cee31"
+          }
+        },
+        {
           "id": "generated.forgemod:ComputerCraft:1.75@jar",
           "name": "ComputerCraft",
           "type": "ForgeMod",
