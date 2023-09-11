@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "rss": "guix-github.github.io/ProjectGenesis/index.rss",
+  "version": "1.0.2",
+  "rss": "",
   "discord": {
     "clientId": "1148240467352363048",
     "smallImageText": "",
@@ -12,7 +12,7 @@
       "name": "Project Genesis [1.7.10]",
       "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde post-apo.",
       "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1148954544215162920/LoadingSeal.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "ProjectGenesis.aternos.me:51315",
       "minecraftVersion": "1.7.10",
       "discord": {
@@ -446,6 +446,16 @@
           }
         },
         {
+          "id": "codechicken.nei:notenoughitems:1.7.10-1.0.5.120-universal@jar",
+          "name": "NotEnoughItems",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 513136,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.7.10/forgemods/required/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+            "MD5": "742e865a9a80071e80976ffedc05700e"
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.7.10_HD_U_E7@jar",
           "name": "OptiFine 1.7.10_HD_U_E7",
           "type": "ForgeMod",
@@ -504,8 +514,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1461467,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.7.10/forgemods/required/worldedit-forge-mc1.7.10-6.1.1-dist.jar",
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.7.10/forgemods/optionalon/worldedit-forge-mc1.7.10-6.1.1-dist.jar",
             "MD5": "2009d49df40267da5bba19e09e29463a"
+          },
+          "required": {
+            "value": false
           }
         }
       ]
