@@ -466,16 +466,6 @@
           }
         },
         {
-          "id": "goblinbob.mobends.standard.main:mobends:1.2.1@jar",
-          "name": "Mo' Bends",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 770595,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/MoBends_1.12.2-1.2.1-19.12.21.jar",
-            "MD5": "c4079332690a3cfda665740573415c0c"
-          }
-        },
-        {
           "id": "vazkii.neat:neat:1.4-17@jar",
           "name": "Neat",
           "type": "ForgeMod",
