@@ -356,6 +356,16 @@
           }
         },
         {
+          "id": "extendedrenderer:coroutil:1.12.1-1.2.37@jar",
+          "name": "CoroUtil Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2327451,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/coroutil-1.12.1-1.2.37.jar",
+            "MD5": "350c216784bb54cffc538325ab52d4cc"
+          }
+        },
+        {
           "id": "com.creativemd:creativecore:1.10@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -576,6 +586,16 @@
             "size": 8614298,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.4.24.jar",
             "MD5": "9853befa12d16fcb7d0dd1686555d3ed"
+          }
+        },
+        {
+          "id": "weather2:weather2:1.12.1-2.6.12@jar",
+          "name": "Localized Weather & Storms",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4550732,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/weather2-1.12.1-2.6.12.jar",
+            "MD5": "486d7c789eb29050aa7b04dc5c834c50"
           }
         },
         {
