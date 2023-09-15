@@ -569,6 +569,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.12.2-2.4.24@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8614298,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.4.24.jar",
+            "MD5": "9853befa12d16fcb7d0dd1686555d3ed"
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:6.1.10-SNAPSHOT;e6b38e8@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
