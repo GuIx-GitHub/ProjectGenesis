@@ -505,6 +505,16 @@
             "MD5": "c2e1857273a12dadd84b1e641996c807"
           }
         },
+                {
+          "id": "net.montoyo:mcef:1.12.2-1.11@jar",
+          "name": "Minecraft Chromium Embedded Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 344339,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/mcef-1.12.2-1.11.jar",
+            "MD5": "7d138063173928704c19a68c58c62f5d"
+          }
+        },
         {
           "id": "com.vicmatskiv:mw:0.7.1@jar",
           "name": "Modern Warfare ORI (3.0) Squared",
