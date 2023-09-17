@@ -516,16 +516,6 @@
           }
         },
         {
-          "id": "com.vicmatskiv:mw:0.7.1@jar",
-          "name": "Modern Warfare ORI (3.0) Squared",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37121488,
-            "url": "https://dissolved-ventilato.000webhostapp.com/project-genesis/mw3.0_sqr-0.7.25_BETA_mc1.12.2.jar",
-            "MD5": "48688bf872f7b7ff703fc169f1c0349f"
-          }
-        },
-        {
           "id": "vazkii.neat:neat:1.4-17@jar",
           "name": "Neat",
           "type": "ForgeMod",
