@@ -639,6 +639,16 @@
           }
         },
         {
+          "id": "net.montoyo.wd:webdisplays:1.12.2-1.1@jar",
+          "name": "WebDisplays",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 712307,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/webdisplays-1.12.2-1.1.jar",
+            "MD5": "d6d94a8075955f3d955ed866a5d344c9"
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:6.1.10-SNAPSHOT;e6b38e8@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
