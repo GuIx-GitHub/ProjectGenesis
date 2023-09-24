@@ -609,16 +609,6 @@
           }
         },
         {
-          "id": "toughasnails.core:toughasnails:3.1.0@jar",
-          "name": "Tough As Nails",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 357504,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/ToughAsNails-1.12.2-3.1.0.141-universal.jar",
-            "MD5": "39634afb9279ab287b9d6772ee863d7c"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.12.2-2.4.24@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
