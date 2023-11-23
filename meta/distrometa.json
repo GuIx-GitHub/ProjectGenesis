@@ -3,7 +3,7 @@
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "clientId": "1148240467352363048",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     }
