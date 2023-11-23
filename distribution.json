@@ -10,9 +10,9 @@
     {
       "id": "Project_Genesis-1.12.2",
       "name": "Project Genesis [1.12.2]",
-      "description": "Project Genesis est un serveur Minecraft survie rÃ©aliste dans un monde apocalypse.",
+      "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde apocalypse.",
       "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1148954544215162920/LoadingSeal.png",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "game4.skoali.com:22065",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -531,7 +531,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 94772291,
-            "url": "https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2Fproject-genesis%2FNTM-Extended-1.12.2-1.9.8.jar",
+            "url": "https://download1076.mediafire.com/oisndj6k1ozg4eL59UYaGpFuVumv1O20LRquIi-vvhMOjlHNpNgmcFJHTZlB_gHOmNa3qZio_KoBwCY4btwaPefSlhAM_vyIINDYckeFEex0clffxfr1mJ5QV8EXOENsmLC73NIdV41XWlD9bfTxqdFFYYdfIiE0qge_hk3HOCY/vviozm7zoazoixj/NTM-Extended-1.12.2-1.9.8.jar",
             "MD5": "6d07ae111863f7dac14162ba6bf76763"
           }
         },
@@ -604,7 +604,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28126750,
-            "url": "https://dissolved-ventilato.000webhostapp.com/project-genesis/techguns-1.12.2-2.0.2.0_pre3.2.jar",
+            "url": "https://download2389.mediafire.com/7ccddbzambrgYU418xtufAkUMMCjdCQnfDslbaoOit5tOIf1OiIHM054aF-R5Qlwl4SDKhSIe1kVi6C92cYk_w9xuVPRJ2-2E3CWPMBnbskBxha-t96hTHJSpzOkSPoM5uyVxa2phd_XTh_2IvLwkDgw9mTf06zAr1QTWuIioV4/9evxktkgs6hg5uv/techguns-1.12.2-2.0.2.0_pre3.2.jar",
             "MD5": "dbae09102aedeca925d4b3546685e5b5"
           }
         },
