@@ -526,26 +526,6 @@
           }
         },
         {
-          "id": "com.modularmods:mcgltf:1.12.2-Forge-2.0.3.0@jar",
-          "name": "MCglTF",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 558870,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/MCglTF-1.12.2-Forge-2.0.3.0.jar",
-            "MD5": "11df7853ab718b7d63cc9c93475552f4"
-          }
-        },
-        {
-          "id": "com.modularwarfare:modularwarfare:2.4.2f@jar",
-          "name": "ModularWarfare",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 77165196,
-            "url": "https://projectgenesiswebsite.000webhostapp.com/modularwarfare-2.4.2f.jar",
-            "MD5": "d5c93e4d4aa120bea13873ceaf846fbb"
-          }
-        },
-        {
           "id": "com.hbm.main:hbm:1.9.8@jar",
           "name": "HBM's Nuclear Tech - Extended Edition",
           "type": "ForgeMod",
