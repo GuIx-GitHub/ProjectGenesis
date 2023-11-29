@@ -5,24 +5,15 @@
         <link>https://guix-github.github.io/ProjectGenesis/</link>
         <description>Les dernières actualités de mon site.</description>
         <language>fr-FR</language>
-        
-        <item>
-            <title>Ouverture Prochaine !</title>
-            <date>Lundi, 11 Septembre 2023 à 18:30</date>
-            <content>Project Genesis à connu des jours meilleurs, Donc nous préférons encore attendre avant d'avoir une version stable avec tout les mods désirés installer.</content>
-            <author>GuIx</author>
-            <comments></comments>
-            <pubDate>Mon, 11 Sep 2023 18:30:00 GMT</pubDate>
-        </item>
 
         <item>
-            <link>https://guix-github.github.io/ProjectGenesis/Project%20Genesis%20Launcher%20Fixed.png</link>
-            <title>Nouvelle</title>
-            <date>Lundi, 16 Septembre 2023 à 23:30</date>
+            <link>https://cdn.discordapp.com/attachments/1152707164444557312/1179211040530104320/Project_Genesis_Mise_a_jour.png?ex=6578f4dc&is=65667fdc&hm=f2d0b361de86341c54bb3b1f16f5692b95db3f55c4ec68081032617705dbf67c&</link>
+            <title>Mise à jour - 1.0.5</title>
+            <date>Lundi, 29 Novembre 2023 à 01:10</date>
             <content>Nouvelle version du launcher disponible !</content>
             <author>GuIx</author>
             <comments></comments>
-            <pubDate>Mon, 11 Sep 2023 18:30:00 GMT</pubDate>
+            <pubDate>Wed, 29 Nov 2023 01:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
