@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "rss": "https://guix-github.github.io/ProjectGenesis/index.rss",
   "discord": {
     "clientId": "1148240467352363048",
@@ -254,6 +254,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "dev.redstudio:redcore:0.6-Dev-1@jar",
+          "name": "Red Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 132264,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/!Red-Core-MC-1.7-1.12-0.6-Dev-1.jar",
+            "MD5": "75f8c3df9a77b701873a188a1c0897c0"
+          }
         },
         {
           "id": "net.geforcemods:securitycraft:v1.9.7@jar",
@@ -513,6 +523,16 @@
             "size": 344339,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/mcef-1.12.2-1.11.jar",
             "MD5": "7d138063173928704c19a68c58c62f5d"
+          }
+        },
+        {
+          "id": "com.paneedah:mwc:0.1-Dev-14@jar",
+          "name": "Modern Warfare Cubed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29467694,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Modern-Warfare-Cubed-0.1-Dev-14.jar",
+            "MD5": "3b183fe69e922b7306dee405821f70a8"
           }
         },
         {
