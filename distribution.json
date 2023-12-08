@@ -619,16 +619,6 @@
           }
         },
         {
-          "id": "techguns:techguns:1.12.2-2.0.2.0@jar",
-          "name": "Techguns",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28126750,
-            "url": "https://projectgenesiswebsite.000webhostapp.com/techguns-1.12.2-2.0.2.0_pre3.2.jar",
-            "MD5": "dbae09102aedeca925d4b3546685e5b5"
-          }
-        },
-        {
           "id": "thut.core.common.compat:thutcore:1.12.2-5.21.0@jar",
           "name": "Thut Core",
           "type": "ForgeMod",
