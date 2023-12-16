@@ -296,16 +296,6 @@
           }
         },
         {
-          "id": "com.vladmarica:betterpingdisplay:1.0@jar",
-          "name": "Better Ping Display",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10689,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/BetterPingDisplay-1.12.2-1.0.jar",
-            "MD5": "0174160b08aa90bc19e8cd3cccc02dd0"
-          }
-        },
-        {
           "id": "com.tterrag:betterplacement:1.0.0-1@jar",
           "name": "Better Placement",
           "type": "ForgeMod",
@@ -313,16 +303,6 @@
             "size": 7025,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/BetterPlacement-1.0.0-1.jar",
             "MD5": "f4518692cd397dd5beda3903289352f7"
-          }
-        },
-        {
-          "id": "com.girafi:bettertitlescreen:1.4b@jar",
-          "name": "Better Title Screen",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13120,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/BetterTitleScreen-1.12.2-1.4b.jar",
-            "MD5": "4d4aa13bd37f31fbc3c5458922dc0299"
           }
         },
         {
@@ -353,6 +333,16 @@
             "size": 4755282,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Chisel-MC1.12.2-1.0.2.45.jar",
             "MD5": "54afc298f94e708f0e1cdf399200b2cb"
+          }
+        },
+        {
+          "id": "org.cyclops:colossalchests:1.12.2-1.7.3@jar",
+          "name": "Colossal Chests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200954,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/ColossalChests-1.12.2-1.7.3.jar",
+            "MD5": "6f692a7a9a54dc300edb4d9403fcdcf5"
           }
         },
         {
@@ -406,16 +396,6 @@
           }
         },
         {
-          "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
-          "name": "Custom Main Menu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 91121,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
-            "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
-          }
-        },
-        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
@@ -423,6 +403,16 @@
             "size": 9911871,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "org.cyclops:cyclopscore:1.12.2-1.6.7@jar",
+          "name": "Cyclops Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1060985,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/CyclopsCore-1.12.2-1.6.7.jar",
+            "MD5": "dc635fec13b1245323a58799fa6e6b39"
           }
         },
         {
@@ -436,16 +426,6 @@
           }
         },
         {
-          "id": "org.orecruncher:dsurround:1.12.2-3.6.3@jar",
-          "name": "Dynamic Surroundings",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15778870,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.3.jar",
-            "MD5": "77e815ce9c8dd68ecba4eb884d6db4d2"
-          }
-        },
-        {
           "id": "ichttt.mods:firstaid:1.6.22@jar",
           "name": "First Aid",
           "type": "ForgeMod",
@@ -456,13 +436,13 @@
           }
         },
         {
-          "id": "bre.fpsreducer:fpsreducer:mc1.12.2-1.20@jar",
-          "name": "FPS Reducer",
+          "id": "micdoodle8.mods.galacticraft.core:galacticraftcore:4.0.6@jar",
+          "name": "Galacticraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 79700,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/FpsReducer-mc1.12.2-1.20.jar",
-            "MD5": "7e88042f94dbfccba9e839b640cf592e"
+            "size": 15679501,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Galacticraft-1.12.2-4.0.6.jar",
+            "MD5": "cb4cc1f63559675971914c8742d89c32"
           }
         },
         {
@@ -485,7 +465,7 @@
             "MD5": "c2e1857273a12dadd84b1e641996c807"
           }
         },
-                {
+        {
           "id": "net.montoyo:mcef:1.12.2-1.11@jar",
           "name": "Minecraft Chromium Embedded Framework",
           "type": "ForgeMod",
@@ -503,16 +483,6 @@
             "size": 29467694,
             "url": "https://projectgenesiswebsite.000webhostapp.com/Modern-Warfare-Cubed-0.1-Dev-14.jar",
             "MD5": "3b183fe69e922b7306dee405821f70a8"
-          }
-        },
-        {
-          "id": "vazkii.neat:neat:1.4-17@jar",
-          "name": "Neat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 18527,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Neat+1.4-17.jar",
-            "MD5": "c371deab2490ecd6a2689eed09302d23"
           }
         },
         {
@@ -566,16 +536,6 @@
             "size": 11939599,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/SCP+Lockdown-1.12.2-2.4.2-release.jar",
             "MD5": "83194d3ab8a250ce0452cb013c6d1769"
-          }
-        },
-        {
-          "id": "foxahead.simpleworldtimer:simpleworldtimer:1.12.2-1.1.3.2@jar",
-          "name": "Simple World Timer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 45801,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/SimpleWorldTimer-1.12.2-1.1.3.2.jar",
-            "MD5": "46c74f13d6d67d7fc50611f0c6926fe0"
           }
         },
         {
