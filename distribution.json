@@ -426,6 +426,16 @@
           }
         },
         {
+          "id": "org.orecruncher:dsurround:1.12.2-3.6.3@jar",
+          "name": "Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15778870,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.3.jar",
+            "MD5": "77e815ce9c8dd68ecba4eb884d6db4d2"
+          }
+        },
+        {
           "id": "ichttt.mods:firstaid:1.6.22@jar",
           "name": "First Aid",
           "type": "ForgeMod",
