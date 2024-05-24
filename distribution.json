@@ -569,13 +569,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.12.2-2.4.24@jar",
+          "id": "de.maxhenkel:voicechat:1.12.2-2.5.15@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8614298,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.4.24.jar",
-            "MD5": "9853befa12d16fcb7d0dd1686555d3ed"
+            "size": 8670715,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.5.15.jar",
+            "MD5": "2c4486b47167a03dfd2e9cf3d344ede8"
           }
         },
         {
