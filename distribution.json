@@ -496,13 +496,13 @@
           }
         },
         {
-          "id": "com.hbm.main:hbm:1.9.8@jar",
+          "id": "com.hbm.main:hbm:2.0.2@jar",
           "name": "HBM's Nuclear Tech - Extended Edition",
           "type": "ForgeMod",
           "artifact": {
-            "size": 94772291,
-            "url": "https://projectgenesiswebsite.000webhostapp.com/NTM-Extended-1.12.2-1.9.8.jar",
-            "MD5": "6d07ae111863f7dac14162ba6bf76763"
+            "size": 63613333,
+            "url": "https://projectgenesiswebsite.000webhostapp.com/NTM-Extended-1.12.2-2.0.2.jar",
+            "MD5": "0d760b82e8609d1c067e64089e9f006f"
           }
         },
         {
