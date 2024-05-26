@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.1.2",
   "rss": "https://guix-github.github.io/ProjectGenesis/index.rss",
   "discord": {
     "clientId": "1148240467352363048",
@@ -12,7 +12,7 @@
       "name": "Project Genesis [1.12.2]",
       "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde apocalypse.",
       "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1232289150854500394/Project_Genesis_Logo.png?ex=6628ea34&is=662798b4&hm=5f53fca41bee6e36a8a266f4ae8faf5e136d7969eee59750c5c83f0b810af7af&",
-      "version": "1.0.6",
+      "version": "1.1.2",
       "address": "25.52.58.131",
       "minecraftVersion": "1.12.2",
       "discord": {
