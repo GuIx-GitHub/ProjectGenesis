@@ -481,7 +481,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 106346165,
-            "url": "https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2FImmersiveRailroading-1.12.2-forge-1.10.0.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4970/105/ImmersiveRailroading-1.12.2-forge-1.10.0.jar",
             "MD5": "8a5ba0b237aa97ebb6006e7cf53db5a7"
           }
         },
@@ -516,13 +516,13 @@
           }
         },
         {
-          "id": "com.paneedah:mwc:0.1-Dev-14@jar",
+          "id": "com.paneedah:mwc:0.1.6@jar",
           "name": "Modern Warfare Cubed",
           "type": "ForgeMod",
           "artifact": {
-            "size": 29467694,
-            "url": "https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2FModern-Warfare-Cubed-0.1-Dev-14.jar",
-            "MD5": "3b183fe69e922b7306dee405821f70a8"
+            "size": 26888865,
+            "url": "https://mediafilez.forgecdn.net/files/5362/518/Modern-Warfare-Cubed-0.1.6.jar",
+            "MD5": "3a77ffc6804282ea6d3740f09460cea2"
           }
         },
         {
@@ -531,7 +531,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 63613333,
-            "url": "https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2FNTM-Extended-1.12.2-2.0.2.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5254/559/NTM-Extended-1.12.2-2.0.2.jar",
             "MD5": "0d760b82e8609d1c067e64089e9f006f"
           }
         },
@@ -644,7 +644,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30839089,
-            "url": "https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2FUNU%20Parts%20Pack%20%5BMTS%5D%201.12.2-22.13.0-6.5.0.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5201/784/UNU%20Parts%20Pack%20%5BMTS%5D%201.12.2-22.13.0-6.5.0.jar",
             "MD5": "44550ba49410c4a8a67b1cc26d4bd658"
           }
         },
