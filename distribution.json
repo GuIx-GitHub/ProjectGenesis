@@ -8,22 +8,6 @@
   },
   "servers": [
     {
-      "id": "Project_Genesis-1.12.2",
-      "name": "Project Genesis [1.12.2]",
-      "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde apocalypse.",
-      "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1232289150854500394/Project_Genesis_Logo.png?ex=6628ea34&is=662798b4&hm=5f53fca41bee6e36a8a266f4ae8faf5e136d7969eee59750c5c83f0b810af7af&",
-      "version": "1.1.2",
-      "address": "25.52.58.131",
-      "minecraftVersion": "1.12.2",
-      "discord": {
-        "shortId": "1.12.2 Project Genesis",
-        "largeImageText": "Project Genesis",
-        "largeImageKey": "projectgenesis"
-      },
-      "mainServer": true,
-      "autoconnect": true,
-      "modules": [
-        {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
@@ -426,6 +410,16 @@
           }
         },
         {
+          "id": "atomicstryker.dynamiclights.client:DynamicLights:1.4.9@jar",
+          "name": "Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 102000,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/DynamicLights-1.12.2.jar",
+            "MD5": "bbf46497e737f88bbfeb8cce74fb3099"
+          }
+        },
+        {
           "id": "org.orecruncher:dsurround:1.12.2-3.6.3@jar",
           "name": "Dynamic Surroundings",
           "type": "ForgeMod",
@@ -453,6 +447,26 @@
             "size": 15679501,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Galacticraft-1.12.2-4.0.6.jar",
             "MD5": "cb4cc1f63559675971914c8742d89c32"
+          }
+        },
+        {
+          "id": "mcinterface1122:mts:22.15.0@jar",
+          "name": "Immersive Vehicles (formerly MTS)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5985435,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Immersive%20Vehicles-1.12.2-22.15.0.jar",
+            "MD5": "0314b32778441afdf4dfab4f51180049"
+          }
+        },
+        {
+          "id": "cam72cam.immersiverailroading:immersiverailroading:1.10.0@jar",
+          "name": "Immersive Railroading",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106346165,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/ImmersiveRailroading-1.12.2-forge-1.10.0.jar",
+            "MD5": "8a5ba0b237aa97ebb6006e7cf53db5a7"
           }
         },
         {
@@ -491,7 +505,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29467694,
-            "url": "https://projectgenesiswebsite.000webhostapp.com/Modern-Warfare-Cubed-0.1-Dev-14.jar",
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Modern-Warfare-Cubed-0.1-Dev-14.jar",
             "MD5": "3b183fe69e922b7306dee405821f70a8"
           }
         },
@@ -501,7 +515,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 63613333,
-            "url": "https://projectgenesiswebsite.000webhostapp.com/NTM-Extended-1.12.2-2.0.2.jar",
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/NTM-Extended-1.12.2-2.0.2.jar",
             "MD5": "0d760b82e8609d1c067e64089e9f006f"
           }
         },
@@ -576,6 +590,46 @@
             "size": 92887,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/thuttech-1.12.2-6.1.6.jar",
             "MD5": "7d6aaaff394ca76ae6c9838c0b1d17d9"
+          }
+        },
+        {
+          "id": "trackapi:trackapi:1.2@jar",
+          "name": "Track API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7374,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/TrackAPI-1.2.jar",
+            "MD5": "b7e2756459eab54b39070240a287a128"
+          }
+        },
+        {
+          "id": "cam72cam.mod:universalmodcore:1.2.1@jar",
+          "name": "UniversalModCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1161086,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/UniversalModCore-1.12.2-forge-1.2.1.jar",
+            "MD5": "8411c518ef0f598b78ba1eeaa08fda68"
+          }
+        },
+        {
+          "id": "unumilitary:unumilitary:5.0.0@jar",
+          "name": "UNU Military Vehicles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20387509,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/UNU%20Military%20Pack%20[MTS]%201.12.2-22.13.0-6.0.0-BETA1.jar",
+            "MD5": "18c7bf5a00a3271a94a04112bf68b02c"
+          }
+        },
+        {
+          "id": "unuparts:unuparts:6.5.0@jar",
+          "name": "UNU Parts Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30839089,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/UNU%20Parts%20Pack%20[MTS]%201.12.2-22.13.0-6.5.0.jar",
+            "MD5": "44550ba49410c4a8a67b1cc26d4bd658"
           }
         },
         {
