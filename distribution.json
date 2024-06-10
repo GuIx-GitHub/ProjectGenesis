@@ -1,13 +1,29 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.5",
   "rss": "https://guix-github.github.io/ProjectGenesis/index.rss",
   "discord": {
     "clientId": "1148240467352363048",
-    "smallImageText": null,
-    "smallImageKey": null
+    "smallImageText": "null",
+    "smallImageKey": "null"
   },
   "servers": [
     {
+      "id": "Project_Genesis-1.12.2",
+      "name": "Project Genesis [1.12.2]",
+      "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde post-apocalyptique.",
+      "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1232289150854500394/Project_Genesis_Logo.png?ex=66683234&is=6666e0b4&hm=e958638ffaf5642ca8c38100cb06935654c76656b362332f30338d709f35869e&",
+      "version": "1.2.5",
+      "address": "25.52.58.131",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "1.12.2 Project Genesis",
+        "largeImageText": "Project Genesis",
+        "largeImageKey": "projectgenesis"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
