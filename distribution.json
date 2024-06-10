@@ -521,7 +521,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29467694,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Modern-Warfare-Cubed-0.1-Dev-14.jar",
+            "url": "https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2FModern-Warfare-Cubed-0.1-Dev-14.jar",
             "MD5": "3b183fe69e922b7306dee405821f70a8"
           }
         },
@@ -531,7 +531,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 63613333,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/NTM-Extended-1.12.2-2.0.2.jar",
+            "url": "https://files.000webhost.com/handler.php?action=download?action=download&path=%2Fpublic_html%2FNTM-Extended-1.12.2-2.0.2.jar",
             "MD5": "0d760b82e8609d1c067e64089e9f006f"
           }
         },
