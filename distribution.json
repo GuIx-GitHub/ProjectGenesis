@@ -13,7 +13,7 @@
       "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde apocalyptique.",
       "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1232289150854500394/Project_Genesis_Logo.png?ex=66683234&is=6666e0b4&hm=e958638ffaf5642ca8c38100cb06935654c76656b362332f30338d709f35869e&",
       "version": "1.2.5",
-      "address": "25.52.58.131",
+      "address": "25.52.58.131:25567",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Project Genesis",
