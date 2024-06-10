@@ -466,26 +466,6 @@
           }
         },
         {
-          "id": "mcinterface1122:mts:22.15.0@jar",
-          "name": "Immersive Vehicles (formerly MTS)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5985435,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/Immersive%20Vehicles-1.12.2-22.15.0.jar",
-            "MD5": "0314b32778441afdf4dfab4f51180049"
-          }
-        },
-        {
-          "id": "cam72cam.immersiverailroading:immersiverailroading:1.10.0@jar",
-          "name": "Immersive Railroading",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 106346165,
-            "url": "https://mediafilez.forgecdn.net/files/4970/105/ImmersiveRailroading-1.12.2-forge-1.10.0.jar",
-            "MD5": "8a5ba0b237aa97ebb6006e7cf53db5a7"
-          }
-        },
-        {
           "id": "mezz.jei:jei:4.16.1.1003@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -606,46 +586,6 @@
             "size": 92887,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/thuttech-1.12.2-6.1.6.jar",
             "MD5": "7d6aaaff394ca76ae6c9838c0b1d17d9"
-          }
-        },
-        {
-          "id": "trackapi:trackapi:1.2@jar",
-          "name": "Track API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7374,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/TrackAPI-1.2.jar",
-            "MD5": "b7e2756459eab54b39070240a287a128"
-          }
-        },
-        {
-          "id": "cam72cam.mod:universalmodcore:1.2.1@jar",
-          "name": "UniversalModCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1161086,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/UniversalModCore-1.12.2-forge-1.2.1.jar",
-            "MD5": "8411c518ef0f598b78ba1eeaa08fda68"
-          }
-        },
-        {
-          "id": "unumilitary:unumilitary:5.0.0@jar",
-          "name": "UNU Military Vehicles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20387509,
-            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/UNU%20Military%20Pack%20[MTS]%201.12.2-22.13.0-6.0.0-BETA1.jar",
-            "MD5": "18c7bf5a00a3271a94a04112bf68b02c"
-          }
-        },
-        {
-          "id": "unuparts:unuparts:6.5.0@jar",
-          "name": "UNU Parts Pack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 30839089,
-            "url": "https://mediafilez.forgecdn.net/files/5201/784/UNU%20Parts%20Pack%20%5BMTS%5D%201.12.2-22.13.0-6.5.0.jar",
-            "MD5": "44550ba49410c4a8a67b1cc26d4bd658"
           }
         },
         {
