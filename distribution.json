@@ -396,6 +396,16 @@
           }
         },
         {
+          "id": "io.github.opencubicchunks.cubicchunks.core:cubicchunks:1.12.2-0.0.1271.0-SNAPSHOT@jar",
+          "name": "CubicChunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1840731,
+            "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/CubicChunks-1.12.2-0.0.1271.0-SNAPSHOT-all.jar",
+            "MD5": "94c294acc35ac59221867c93ccd849a5"
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
