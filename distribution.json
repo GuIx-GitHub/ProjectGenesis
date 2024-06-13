@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.3.25",
   "rss": "https://guix-github.github.io/ProjectGenesis/index.rss",
   "discord": {
     "clientId": "1148240467352363048",
@@ -12,7 +12,7 @@
       "name": "Project Genesis [1.12.2]",
       "description": "Project Genesis est un serveur Minecraft survie réaliste dans un monde apocalyptique.",
       "icon": "https://cdn.discordapp.com/attachments/1095681425090555974/1232289150854500394/Project_Genesis_Logo.png?ex=66683234&is=6666e0b4&hm=e958638ffaf5642ca8c38100cb06935654c76656b362332f30338d709f35869e&",
-      "version": "1.2.5",
+      "version": "1.3.25",
       "address": "25.52.58.131",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -24,23 +24,23 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859:universal",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 4466148,
-            "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-            "url": "https://guix-github.github.io/ProjectGenesis/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+            "size": 4466108,
+            "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
+            "url": "https://guix-github.github.io/ProjectGenesis/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
           },
           "subModules": [
             {
-              "id": "1.12.2-14.23.5.2860",
+              "id": "1.12.2-14.23.5.2859",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 11799,
-                "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
-                "url": "https://guix-github.github.io/ProjectGenesis/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+                "size": 12345,
+                "MD5": "1959bb357e54a9666dd80d744b524639",
+                "url": "https://guix-github.github.io/ProjectGenesis/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
               }
             },
             {
@@ -252,6 +252,16 @@
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
                 "url": "https://guix-github.github.io/ProjectGenesis/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-slf4j18-impl)",
+              "type": "Library",
+              "artifact": {
+                "size": 21223,
+                "MD5": "196442f1bdde4dbb0f576eed616e21b0",
+                "url": "https://guix-github.github.io/ProjectGenesis/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+              }
             }
           ]
         },
@@ -293,9 +303,6 @@
             "size": 155196,
             "url": "https://guix-github.github.io/ProjectGenesis/servers/Project_Genesis-1.12.2/forgemods/required/BetterFps-1.4.8.jar",
             "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
-          },
-          "required": {
-            "value": false
           }
         },
         {
